@@ -272,6 +272,7 @@ header::before {
     height: 200px;
     margin-bottom: 10px ;
     -webkit-user-select: none;
+    z-index: 2;
 }
 
 #card button{
